@@ -1,4 +1,4 @@
-<h1 align="center">Aplicativo: TastyBites</h1>
+<h1 align="center">Aplicativo: Mordidas Saborosas</h1>
 <p align="center">Aplicativo React Native criado para facilitar a busca por receitas caseiras, esta aplicação utiliza a API REST criada com json-server para demonstração.</p>
 
 ---
